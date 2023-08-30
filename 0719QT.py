@@ -100,4 +100,6 @@ if __name__ == '__main__':
     w = MyWidget()
     w.show()
     sys.exit(app.exec_())
+
+    # 0830
     
